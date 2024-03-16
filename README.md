@@ -11,8 +11,9 @@
     <li>Inteligentne przewidywanie generacji odpadów na podstawie danych historycznych i trendów</li>
     <li>Platforma do zarządzania danymi dla firm recyklingowych, umożliwiająca efektywne planowanie i zarządzanie zasobami</li>
   </ul>
+  <h3><a href="https://docs.google.com/presentation/d/100PzgHAlpeCqVTnqqwTSeaJbI7Tcv-Cus11vt1qQMnY/edit?usp=sharing" target="_blank" rel="noreferrer">Link do prezentacji</a></h3>
   <h3 align="left">Technologie</h3>
-    <ul>
+    <ul> 
     <li>Główny jęzk programowania: <br/> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a></li>
     <li>Biblioteki AI/ML: <br />
     <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
