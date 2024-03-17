@@ -1,2 +1,3 @@
 TBD
 dodane coś
+s
